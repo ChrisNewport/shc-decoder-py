@@ -1,0 +1,8 @@
+cffi==1.15.0
+cryptography==35.0.0
+imutils==0.5.4
+numpy==1.21.3
+opencv-contrib-python==4.5.4.58
+pycparser==2.20
+PyJWT==2.3.0
+pyzbar==0.1.8
